@@ -1,14 +1,12 @@
-
-<meta property="og:description" content="">
-<meta name="twitter:card" content="summary_large_image">
-
 <!DOCTYPE html>
 <html lang="ja" prefix="og: http://ogp.me/ns#">
-
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="format-detection" content="telephone=no">
+	
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="format-detection" content="telephone=no">
+		<meta property="og:description" content="">
+		<meta name="twitter:card" content="summary_large_image">
 
 	<title><?php bloginfo('name'); ?></title>
 	<meta name="description" content="">
